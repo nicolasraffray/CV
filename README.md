@@ -6,7 +6,7 @@ I first came into contact with coding while on my masters after taking an introd
 Jumping into [Makers](insert_link) straight after a masters was challenging but fun. Makers both taught and reinforced sets of skills I thought were completely unrelated to coding, such as Agile workflow and effective pair programming I developed projects as part of a team in time frames I would have otherwise thought unfeasible, all whilst applying precise coding practices.  Learning through doing, building and creating has been key to achieving an adept and practical knowledge of coding and programming. I hope to continue these practises as a Junior Developer. 
 
 
-## Skills
+## Skills
 
 -	Leadership: While at university I captained the University of London polo team. Here I helped coach people who had never ridden a horse before to become proficient polo players, they began in October and by February they were national champions for their division. I also lead a 3-month group project as part of my masters with people who hadn’t come from a finance background. Delegating work according to strengths and tutoring meant we were able to achieve the 2nd highest grade in the year.
 
