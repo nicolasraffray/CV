@@ -1,4 +1,5 @@
-# CV
+# Nicolas Raffray 
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) |
 
 I first came into contact with coding while on my masters after taking an introduction to machine learning module and a data analytics module. Creating/developing scripts in Python and R whilst studying for my masters forged my drive to pursue coding further. Completing the Makers Academy training sharpened my skills and interest in building and creating code.
 
@@ -24,7 +25,11 @@ Notes for me: think about splitting the table into personal projects and group p
 • Acebook or something
 • Pong
 
-
+| Project | Description | Technologies |
+| :---:    |    :---    |         ---: | 
+| [AirBnB Clone]() | This was a single week group project to develop an understanding of the MVC pattern. Users are able to create an account and log in. They can then add listings as well as browse other listings as well as request and confirm bookings. | HTML, CSS, Ruby, Sinatra, Capybara, Rspec, PostgreSQL |
+| [Nellystat]() | This was a fun single week project which involved daily pair programming. It’s a thermostat with a power saving mode, connected to an API for real-time outdoor temperature. If the user puts up the temperature beyond 30oC Nelly appears. This was used to develop an understanding of jQuery as well as CSS along with practising JavaScript.| JavaScript, jQuery, CSS, HTML, Jasmine |
+| [Pong]() | This was my 2-week group final project at Makers. It’s a web app where the user is able to play against different AI’s where 2 are neural networks that were trained on the game. A user is also able to watch one of the neural networks training on the game. They are also able to play against another human in a multiplayer area. | Python, Django, JavaScript, Jasmine, Pytest | 
 
 ## Education 
 
